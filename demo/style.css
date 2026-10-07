@@ -1,0 +1,362 @@
+* {
+     margin: 0;
+     padding: 0;
+ }
+
+ body {
+     background-color: rgb(227, 235, 243);
+     
+ }
+ nav{
+   height: 90px;
+   width: 100%;
+   background-color:white;
+ }
+  .name2{
+   color:rgb(235, 235, 245);
+   margin-top: 40px;
+   margin-left: 5px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: blue;
+    border: none;
+    border-radius: 10px;
+ }
+ .name3{
+   color:blue;
+   margin-top: 40px;
+   margin-left: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+   border-radius:10px ;
+  border: 1px solid blue;
+ }
+ .nav-head{
+   position: absolute;
+   right: 20px;
+   top: 30px;   
+ }
+ .nav-head li{
+   display: inline-block;
+   padding: 15px;
+   top:10%;
+   
+
+ }
+ .nav-head li a{
+   color: black;
+   text-decoration: none;
+   list-style: none;
+   
+}
+nav h2{
+   position: absolute;
+   top: 30px;
+   left: 70px;
+}
+.content{
+   position: absolute;
+   left: 20%;
+   top: 40%;
+}
+ img{
+       height: 200px;
+        width: 240px;
+        bottom:20px;
+        border-radius: 60%;
+        position: absolute;
+        left: 150%;
+        top: 2%;
+ }
+ .propose{
+   color: blue;
+   font-weight: 600;
+ }
+ .name5{
+   margin-top: 7px;
+   font-size: 20px;
+   
+  
+ }
+ .name5 p{
+      font-size: 20px;
+      margin-top: 15px;
+   
+ }
+ .box{
+   
+   width: 100%;
+   background-color: white;
+   position:absolute ;
+   top:100%;
+
+ }
+ .box h1{
+   margin-left: 70px;
+   margin-top: 30px;
+   margin-bottom:30px ;
+ }
+ .box p{
+   margin-left: 70px;
+   font-size: 20px;
+   margin-bottom: 50px;
+   
+ }
+ .box1{
+  
+   width: 100%;
+   /* background-color: rgb(223, 231, 235); */
+   position:absolute;
+   top: 150%;
+   bottom:150%;
+ }
+ .container h1{
+   margin-left: 70px ;
+
+ }
+ .box1-a{
+  height: 50px;
+  width: 100px;
+  background-color: blueviolet;
+  border: none;
+  border-radius: 2px;
+  margin-left: 60px;
+  margin-top: 40px;
+ }
+ .box1-a h2{
+  padding: 10px;
+ }
+  .box1-b{
+  height: 50px;
+  width: 100px;
+  background-color: blueviolet;
+  border: none;
+  border-radius: 2px;
+  margin-left:15%;
+ margin-top: -50px;
+ }
+ .box1-b h2{
+  padding: 10px;
+ }
+  .box1-c{
+  height: 50px;
+  width: 100px;
+  background-color: blueviolet;
+  border: none;
+  border-radius: 2px;
+  margin-left:25%;
+ margin-top: -50px;
+ }
+ .box1-c h2{
+  padding: 10px;
+ }
+ .box1-d{
+  height: 50px;
+  width: 100px;
+  background-color: blueviolet;
+  border: none;
+  border-radius: 2px;
+  margin-left:35%;
+ margin-top: -50px;
+ }
+ .box1-d h2{
+  padding: 10px;
+ }
+  .box1-d{
+  height: 50px;
+  width: 100px;
+  background-color: blueviolet;
+  border: none;
+  border-radius: 2px;
+  margin-left:5%;
+ margin-top: 40px;
+ }
+ .box1-d h2{
+  padding: 10px;
+ }
+ .box1-e{
+  height: 50px;
+  width: 100px;
+  background-color: blueviolet;
+  border: none;
+  border-radius: 2px;
+  margin-left:15%;
+ margin-top: -50px;
+ }
+ .box1-e h2{
+  padding: 10px;
+ }
+  .box1-f{
+  height: 50px;
+  width: 100px;
+  background-color: blueviolet;
+  border: none;
+  border-radius: 2px;
+  margin-left:25%;
+ margin-top: -50px;
+ }
+ .box1-f h2{
+  padding: 10px;
+ }
+  .box1-g{
+  height: 50px;
+  width: 100px;
+  background-color: blueviolet;
+  border: none;
+  border-radius: 2px;
+  margin-left:35%;
+ margin-top: -50px;
+ }
+ .box1-g h2{
+  padding: 10px;
+ }
+  .box1-h{
+  height: 50px;
+  width: 100px;
+  background-color: blueviolet;
+  border: none;
+  border-radius: 2px;
+  margin-left:45%;
+ margin-top: -50px;
+ }
+ .box1-h h2{
+  padding: 10px;
+ }
+ .box2{
+  height: 400px;
+  width: 100%;
+  background-color: white;
+  position: absolute;
+  top: 200%;
+ }
+ .box2 h1{
+  margin-top: 30px;
+  margin-left:70px ;
+ }
+ .box3{
+  height: 65%;
+  width: 20%;
+  margin-left: 70px;
+  margin-top: 30px;
+  border:1px solid black;  
+   border-radius: 10px; 
+ }
+ .box3 h1{
+  margin-left: 15px;
+  top:5px;
+ }
+ .box3 p{
+  margin-top:10px;
+  margin-left: 15px;
+  font-size:15px;
+ }
+ .box3 a{
+  position: absolute;
+  margin-top: 60px;
+  margin-left: -50px;
+  text-decoration: none;
+ }
+ .box4{
+  height: 65%;
+  width: 20%;
+  position: absolute;
+  left: 30%;
+  bottom: 9.5%;
+    border:1px solid black;
+     border-radius: 10px;
+ }
+ .box4 h1{
+  margin-left: 15px;
+  top:5px;
+ }
+ .box4 p{
+  margin-top:10px;
+  margin-left: 15px;
+  font-size:15px;
+ }
+ .box4 a{
+  position: absolute;
+  margin-top: 60px;
+  margin-left: -70%;
+  text-decoration: none;
+ }
+ .box5{
+  height: 65%;
+  width: 20%;
+  position: absolute;
+  left: 55%;
+  bottom: 9.5%;
+    border:1px solid black;
+    border-radius: 10px;
+ }
+ .box5 h1{
+  margin-left: 15px;
+  top:5px;
+ }
+ .box5 p{
+  margin-top:10px;
+  margin-left: 20px;
+  font-size:15px;
+ }
+ .box5 a{
+  position: absolute;
+  margin-top: 60px;
+  left: 9%;
+  text-decoration: none;
+ }
+
+ footer{
+  height: 200px;
+  width: 100%;
+  background-color: transparent;
+  margin-top: 117%;
+  
+  
+ }
+ footer h2{
+  margin-left: 70px;
+  
+ }
+ footer p{
+  margin-left: 70px;
+  margin-top: 20px;
+ }
+ .foot-menu{
+  height: 30%;
+  width: 30%;
+  border: none;
+  position: absolute;
+  right: 150px;
+  top: 265%;
+ }
+ .icons{
+  margin-top: 30px;
+ }
+ .email-icon{
+  margin-left: 20px;
+  margin-top: 20px;
+ }
+ .linkedin-icon{
+  margin-left: 20px;
+  margin-top: 20px;
+ }
+ .github-icon{
+  margin-top: 20px;
+  margin-left: 20px;
+ }
+ .about-menu{
+  position: absolute;
+  left: 70%;
+  top: 80px;
+ }
+ .email-icons{
+  margin-top: 20px;
+    
+ }
+ .location-icons{
+  margin-top: 20px;
+ }
